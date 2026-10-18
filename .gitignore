@@ -1,0 +1,9 @@
+node_modules/
+dist/
+release/
+.local/
+authoring/
+private/*
+!private/runtime.dat
+test-results/
+*.log

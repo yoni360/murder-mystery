@@ -1,0 +1,839 @@
+{
+  "caseId": "26–1047",
+  "title": {
+    "he": "האור בקומה השנייה",
+    "en": "Light on the Second Floor"
+  },
+  "setting": {
+    "he": "נחל רימון • ספטמבר 2026",
+    "en": "Nahal Rimon • September 2026"
+  },
+  "duration": {
+    "he": "60–90 דקות • קושי בינוני",
+    "en": "60–90 minutes • Medium"
+  },
+  "dossier": [
+    {
+      "id": "P01",
+      "app": "dossier",
+      "title": {
+        "he": "האור בקומה השנייה",
+        "en": "Light on the Second Floor"
+      },
+      "subtitle": {
+        "he": "משטרת נחל רימון • יחידת חקירות מרחבית",
+        "en": "Nahal Rimon Police • District Investigation Unit"
+      },
+      "body": {
+        "he": "תיק 26–1047\nחקירת מוות חשוד • עיון חוקר בלבד\nנפתח: 15 בספטמבר 2026\nהעתק עבודה 03 • 16 בספטמבר 2026, 09:00\n\nאחראית מסירה: רפ״ק יעל דגן\nהקצאת חוקר: ביקורת עצמאית של הממצאים\n\nהנחיות: קראו את התיק, חקרו את עמדת העבודה והגישו מסקנה מנומקת. מסמכים משלימים מצויים במחשב. אין צורך בידע מקצועי חיצוני.\n\nכל האנשים, הארגונים והאירועים במשחק בדיוניים. אין מדובר במסמך רשמי.",
+        "en": "CASE 26–1047\nSuspicious death • Investigator access only\nOpened: 15 September 2026\nWorking copy 03 • 16 September 2026, 09:00\n\nIssuing officer: Inspector Yael Dagan\nAssignment: independent review of the evidence\n\nInstructions: read the dossier, investigate the workstation and submit a supported conclusion. Supplemental records are on the computer. No outside specialist knowledge is required.\n\nAll people, organisations and events in this game are fictional. This is not an official document."
+      },
+      "kind": "cover"
+    },
+    {
+      "id": "P02",
+      "app": "dossier",
+      "title": {
+        "he": "הקצאת חקירה",
+        "en": "Investigation assignment"
+      },
+      "subtitle": {
+        "he": "מזכר פתיחה • 16.09.2026 / 09:00",
+        "en": "Opening memorandum • 16.09.2026 / 09:00"
+      },
+      "body": {
+        "he": "אייל שלו, בן 46, יועץ לביקורת רשומות, נמצא ללא רוח חיים בחדר העיון 204 של בית הרשומות העירוני ברחוב הגפן 8. השומר דיווח בשעה 21:07 ביום 14.09.2026. הניידת הראשונה הגיעה ב־21:14.\n\nשלו הועסק לבדיקת חוזי שימוש ושטחי אחסנה. הדוח שלו נועד להימסר לוועדת הביקורת למחרת בבוקר. אין לקבוע שממצא כספי כלשהו קשור למוות בלי ראיות.\n\nמשימתכם: לקבוע מה אירע, מי אחראי, מה המניע, מתי ואיך התרחש האירוע, ועל אילו ראיות ההסבר נשען. יש להבחין בין דברי עדים לבין נתונים שאומתו.\n\nמקורות: התיק המודפס מכיל את חומרי הפתיחה. במחשב: סייר קבצים, דואר, הודעות, מאגר חקירה ומחברת. כל חומר זמין כבר בתחילת המשחק. תיבת החיפוש בכל יישום מחפשת במקור זה בלבד.\n\nכתבו השערות במחברת וסמנו ראיות. סימון אינו אישור שהבנתם את משמעותן. בטופס הסופי צטטו מזהי ראיות. אל תסתפקו במניע בלבד.",
+        "en": "Eyal Shalev, 46, a records audit consultant, was found dead in reading room 204 at the Municipal Records House, 8 Vine Street. The security officer reported the discovery at 21:07 on 14.09.2026. The first patrol arrived at 21:14.\n\nShalev had been reviewing use agreements and storage areas. His report was due before the audit committee the following morning. A financial irregularity must not be assumed to explain a death without evidence.\n\nYour task: establish what happened, who was responsible, motive, timing and method, and the evidence supporting your account. Separate witness claims from verified records.\n\nSources: this printed dossier contains the opening material. The workstation has Files, Mail, Messages, Investigation Records and a Notebook. All materials are accessible from the start. Search within an app searches only that source.\n\nRecord theories in the notebook and bookmark evidence. A bookmark does not certify an interpretation. Cite evidence IDs in your final report. Motive alone is insufficient."
+      }
+    },
+    {
+      "id": "P03",
+      "app": "dossier",
+      "title": {
+        "he": "דוח תגובה ראשונה",
+        "en": "First response report"
+      },
+      "subtitle": {
+        "he": "P03 • רס״ר תמר ארז • 14.09 / 22:10",
+        "en": "P03 • Sergeant Tamar Erez • 14.09 / 22:10"
+      },
+      "body": {
+        "he": "21:14 — כניסה דרך הדלת הראשית, יחד עם השומר יוסי טל. השומר נשלח לפתוח את S1 מבפנים ולבדוק גישה לצוות נוסף, ויצא וחזר בכרטיסו ב־21:15. דלת חדר 204 לא הייתה נעולה. אין סימני פריצה.\n21:16 — איש צוות רפואי קובע מוות. איש מלבד צוות החירום לא הורשה לעלות.\n21:21 — סגירת המעבר לשירות והפרדת הנוכחים.\n\nהגופה ליד שולחן העיון. כיסא אחד הוסט, משקל ספרים מפליז על הרצפה. אין ראיות לחיפוש אלים. טלפון הנפגע על השולחן; הארנק בכיסו. החלון סגור מבפנים. אין יציאה מהחלון ללא ציוד טיפוס.\n\nהשומר עבר בחדר בשעה 19:50 וראה את שלו עובד. הוא לא ערך סיור נוסף בקומה עד 21:07. השומר אינו יכול להעיד מי נכנס לקומה ביניהן.\n\nבדיקת אזעקת אש: אין פתיחת דלתות חירום. מעבר השירות הרגיל אינו דלת חירום ואינו מפעיל אזעקה. אין לערבב בין המערכות.\n\nתצלומי הזירה F01 ומפת המעברים P04 צורפו. מצלמת המדרגות לא פעלה באותו ערב; אין צילום פנים של הקומה.",
+        "en": "21:14 — Entered through the main door with guard Yossi Tal. He was sent to check S1 access for another response team, briefly exiting and returning with his badge at 21:15. Room 204 was unlocked. No forced entry.\n21:16 — Medical responder confirmed death. Only emergency personnel were permitted upstairs.\n21:21 — Service access secured; those present separated.\n\nThe body lay beside the reading desk. One chair was displaced; a brass bookend lay on the floor. No evidence of a violent search. The victim’s phone was on the desk, wallet in his pocket. The window was closed from inside. It offers no exit without climbing equipment.\n\nThe guard saw Shalev working at 19:50. He did not patrol the floor again until 21:07 and cannot account for arrivals during that interval.\n\nFire alarm review: no emergency exits opened. The ordinary service passage is not an emergency exit and does not trigger that alarm. These systems must be distinguished.\n\nScene photographs F01 and circulation plan P04 are attached. The stairwell camera was out of service that evening; there is no interior footage of the floor."
+      }
+    },
+    {
+      "id": "P04",
+      "app": "dossier",
+      "title": {
+        "he": "תשריט דרכי גישה",
+        "en": "Access and circulation plan"
+      },
+      "subtitle": {
+        "he": "P04 • מדידה מקומית • לא בקנה מידה",
+        "en": "P04 • Site survey • Not to scale"
+      },
+      "body": {
+        "he": "המסלול הציבורי: רחוב הגפן ← כניסה ראשית ← לובי ← מדרגות מזרח ← חדר 204.\nהמסלול התפעולי: חצר אחורית ← דלת שירות S1 ← מבואת שירות ← מדרגות מערב ← חדר 204.\n\nS1 נפתחת בכרטיס עובד משני הצדדים, ולכן שתי פעולות מתועדות עם מזהה כרטיס. לחצן שחרור חירום זמין תמיד, אך הפעלתו נרשמת בנפרד; לא הופעל בערב האירוע. האזור הציבורי נסגר ב־20:15; השירות ממשיך לפעול.\n\nבחצר יש שער רכב G2 עם מנעול מכני. מצלמת G2 מכסה את השער בלבד. מעבר הולכי הרגל בחצר נעול באותו מפתח. מפתחות G2 נשמרים במגירות אישיות בחדר השומר; יומן המסירה זמין במאגר.\n\nמרחק S1–204: הליכה רגילה של 80–100 שניות. המרחק מדלפק השומר למבואת השירות הוא 26 מטר, עם מחיצת זכוכית חלבית. אפשר לראות עגלה וצבע בגדים, לא לזהות פנים היטב.\n\nהצילום האחורי F02 מציג את S1 ואת עגלת השירות; זו תמונת תיעוד מהבוקר שאחרי. אין להסיק ממנה מי עמד שם בערב.",
+        "en": "Public route: Vine Street → main entrance → lobby → east stairs → room 204.\nOperational route: rear yard → service door S1 → service alcove → west stairs → room 204.\n\nS1 has badge readers on both sides, so normal entry and exit record the badge ID. An emergency release is always available and separately logged; it was not used that evening. Public access closes at 20:15; service access remains active.\n\nThe yard has a vehicle gate G2 with a mechanical lock. Camera G2 covers only the gate. The pedestrian gate uses the same key. G2 keys are kept in individual drawers in the guard room; the issue log is in Records.\n\nS1 to 204 takes 80–100 seconds at normal walking pace. The guard desk is 26 metres from the service alcove behind frosted glass. A trolley and clothing colour can be observed, but faces cannot reliably be identified.\n\nRear photograph F02 shows S1 and the trolley. It was taken the following morning and cannot establish who stood there that evening."
+      },
+      "kind": "map"
+    },
+    {
+      "id": "P05",
+      "app": "dossier",
+      "title": {
+        "he": "סיכום רפואי ראשוני",
+        "en": "Preliminary medical summary"
+      },
+      "subtitle": {
+        "he": "P05 • ד״ר נעמה רז • 15.09 / 08:20",
+        "en": "P05 • Dr Naama Raz • 15.09 / 08:20"
+      },
+      "body": {
+        "he": "זהות: אייל שלו. האומדן הראשוני למועד המוות: 20:25–20:50 ביום 14.09. האומדן רחב ואינו שעון מדויק.\n\nסיבת המוות: חבלה קהה יחידה בראש. צורת הפגיעה תואמת לפינת חפץ מתכתי כבד. אין ממצא התומך בהרעלה או במוות טבעי. לא ניתן לקבוע את ידו הדומיננטית של התוקף מהפגיעה.\n\nעל כף יד הנפגע סיב כחול. סיבים כאלה קיימים בעגלת השירות ובמעילי עבודה נפוצים בבניין. התאמת צבע לבדה אינה מזהה אדם.\n\nיש סימן אחיזה טרי בשרוול חולצתו. ייתכן מגע סמוך לפגיעה. לא ניתן להסיק ממנו אם השיחה שקדמה לאירוע הייתה מתוכננת.\n\nהחפץ A03 נשלח למעבדה. תוצאה משלימה נמצאת במחשב תחת F03. יש לשלב את חוות הדעת עם רישומי המקום ועם עדויות, ולא להצר את חלון המוות על סמך האומדן בלבד.",
+        "en": "Identity: Eyal Shalev. Preliminary time of death: 20:25–20:50 on 14.09. This is a broad estimate, not a precise clock.\n\nCause of death: one blunt impact to the head. Injury geometry is compatible with the corner of a heavy metal object. There is no finding supporting poisoning or natural death. The assailant’s dominant hand cannot be established from the injury.\n\nA blue fibre was found in the victim’s hand. Such fibres occur on the service trolley and common work jackets in the building. Colour correspondence alone does not identify a person.\n\nA fresh gripping mark appears on his shirt sleeve. Contact shortly before the injury is possible. It cannot establish whether the preceding conversation was planned.\n\nObject A03 was submitted to the laboratory; supplementary finding F03 is on the computer. Combine the opinion with site records and statements. Do not narrow the death window using this estimate alone."
+      }
+    },
+    {
+      "id": "P06",
+      "app": "dossier",
+      "title": {
+        "he": "הודעת מאיה רונן",
+        "en": "Statement: Maya Ronen"
+      },
+      "subtitle": {
+        "he": "P06 • מנהלת תפעול • 15.09 / 00:20",
+        "en": "P06 • Facilities manager • 15.09 / 00:20"
+      },
+      "body": {
+        "he": "״אני אחראית לתחזוקה, ספקים ורכבי השירות. אייל ביקש שוב את תיקי האחסנה. אמרתי שנוכל לעבור עליהם בבוקר. הוא לפעמים מפרש טעויות טכניות כמעשה מכוון.\n\nיצאתי מהמשרד ב־20:10, ובערך ב־20:16 יצאתי ברכב הפרטי מהחניה הקדמית. לא חזרתי לבניין. נסעתי ישר הביתה. בדרך לא קניתי דבר, אין לי קבלה. אני גרה לבד.\n\nהשתמשתי בעגלה הכחולה לפני שמונה כדי להוריד ארגזים. החזרתי אותה למבואת השירות. לא בדקתי מה היה מונח עליה. לפעמים עובדים משאירים עליה מעילים.\n\nרכב U-12 רשום על שמי לצורכי עבודה, אבל אחרים רשאים לבקש אותו. המפתח של החצר הוא באחריותי באותו יום. לא זכור לי שמסרתי אותו למישהו.\n\nלא ידעתי על התקלה בשעון הקורא. אני יודעת שסגרו את הלובי ב־20:15. אין לי מידע מי נכנס אחרי כן.״\n\nהודעה נקראה ואושרה. נרשמה כהצהרה בלבד; המסלול הביתה לא אומת בשלב זה.",
+        "en": "“I handle maintenance, suppliers and service vehicles. Eyal asked again for the storage files. I said we could review them in the morning. He sometimes treats administrative mistakes as deliberate acts.\n\nI left my office at 20:10 and drove my own car out of the front car park at about 20:16. I did not return to the building. I drove straight home. I bought nothing en route and have no receipt. I live alone.\n\nI used the blue trolley before eight to move boxes downstairs, then returned it to the service alcove. I did not check what was on it. People sometimes leave jackets there.\n\nU-12 is allocated to me for work, though others may request it. The yard key was my responsibility that day. I do not recall giving it to anyone.\n\nI did not know about the reader clock fault. I know the lobby closed at 20:15. I have no information about later arrivals.”\n\nStatement read back and approved. Recorded as a claim; the homeward route was not verified at this stage."
+      }
+    },
+    {
+      "id": "P07",
+      "app": "dossier",
+      "title": {
+        "he": "הודעת אמיר שדה",
+        "en": "Statement: Amir Sade"
+      },
+      "subtitle": {
+        "he": "P07 • טכנאי אחזקה • 15.09 / 01:05",
+        "en": "P07 • Maintenance technician • 15.09 / 01:05"
+      },
+      "body": {
+        "he": "״השארתי את מעיל העבודה על העגלה במבואת השירות בערך ב־19:45. הכרטיס A17 היה בכיס. כשחזרתי ב־19:55 העגלה כבר לא הייתה שם. מאיה אמרה שהיא מורידה ארגזים.\n\nלא יכולתי לחכות. יצאתי דרך הלובי ב־20:02, עדיין היה פתוח. לקחתי אוטובוס 42 מהתחנה ליד המרפאה. הטלפון לא היה עליי כי נשאר בטעינה בסדנה. אין לי דרך אחרת להראות איפה הייתי מלבד כרטיס הנסיעה.\n\nאייל הזכיר לי חוב אישי, 1,800 שקלים, ואמר שידבר איתי ביום חמישי. כעסתי, אבל אין לזה קשר לעבודה שלו. לא איימתי עליו.\n\nחזרתי ב־21:15 אחרי ששכן התקשר לאחותי. המשטרה כבר הייתה שם. המעיל הונח על המדף במבואת השירות; הכרטיס בכיס. איני יודע מי השתמש בו.״\n\nכרטיס A17 הוחרם בשעה 21:19. טענת הנסיעה נשלחה לבדיקה. רישומי הקורא לבדם מזהים כרטיס, לא את האדם שהחזיק בו.",
+        "en": "“I left my work jacket on the trolley in the service alcove at about 19:45. Badge A17 was in its pocket. When I came back at 19:55 the trolley was gone. Maya said she was taking boxes downstairs.\n\nI couldn’t wait. I left through the still-open lobby at 20:02 and caught bus 42 by the clinic. My phone was charging in the workshop. My travel ticket is the only way I can show where I went.\n\nEyal reminded me about a personal debt of 1,800 shekels and said we would talk on Thursday. I was angry, but it has nothing to do with his work. I did not threaten him.\n\nI returned at 21:15 after a neighbour called my sister. Police were already there. The jacket was on the service alcove shelf, badge in the pocket. I don’t know who used it.”\n\nA17 was seized at 21:19. The journey claim was sent for checking. Reader logs identify a badge, not necessarily its holder."
+      }
+    },
+    {
+      "id": "P08",
+      "app": "dossier",
+      "title": {
+        "he": "הודעת דנה לב",
+        "en": "Statement: Dana Lev"
+      },
+      "subtitle": {
+        "he": "P08 • רשמת ארכיון • 15.09 / 01:40",
+        "en": "P08 • Archive registrar • 15.09 / 01:40"
+      },
+      "body": {
+        "he": "״אייל ואני היינו נשואים. נפרדנו לפני שנתיים. רבנו בשבוע שעבר על מכירת הדירה; זו לא סיבה להסתיר את השיחה שלנו.\n\nיצאתי ב־19:40 והלכתי לחזרה בתיאטרון הקהילתי. התקשרתי אליו בהפסקה. השיחה התחילה ב־20:29 והסתיימה ב־20:38, כך כתוב בטלפון. עמדתי במסדרון ליד הכניסה לאולם.\n\nהוא אמר שמישהו בא לדבר איתו. שמעתי חריקה ואחריה מכה כבדה בערך ב־20:37. חשבתי שנפל ארגז. הוא הפסיק לענות, ולבסוף הקו נותק. ניסיתי שוב פעמיים. לא שמעתי שם, ולא זיהיתי קול נוסף.\n\nהוא אמר בתחילת השיחה שלא ישנה את טבלת השטחים רק מפני שמישהו מתעקש. לא שאלתי מי. הוא לא דיבר איתי על סכומים.\n\nלא חזרתי לארכיון. אם צריך, בדקו את מצלמת מבואת התיאטרון.״\n\nהזמן המשוער לרעש אינו מדידה פורנזית. נדרש אימות למיקום העדה ולרישומי השיחה.",
+        "en": "“Eyal and I used to be married. We separated two years ago. We argued last week about selling the flat; that is no reason to hide our call.\n\nI left at 19:40 for rehearsal at the community theatre. I called him during a break. The call started at 20:29 and ended at 20:38, according to my phone. I stood in the corridor by the auditorium entrance.\n\nHe said someone had come to speak to him. I heard a scrape and then a heavy impact at about 20:37. I thought a box had fallen. He stopped responding, and eventually the line disconnected. I tried twice more. I heard no name and recognised no other voice.\n\nAt the start he said he would not alter the area schedule just because someone insisted. I did not ask who. He did not mention amounts.\n\nI did not return to the archive. You can check the theatre foyer camera.”\n\nThe estimated impact time is not a forensic measurement. Her location and the call records require verification."
+      }
+    },
+    {
+      "id": "P09",
+      "app": "dossier",
+      "title": {
+        "he": "הודעת ניב הררי",
+        "en": "Statement: Niv Harari"
+      },
+      "subtitle": {
+        "he": "P09 • סגן מנהל • 15.09 / 02:15",
+        "en": "P09 • Deputy director • 15.09 / 02:15"
+      },
+      "body": {
+        "he": "״נכון ששלחתי לאייל הודעה לא נעימה. אישרתי שימוש זמני בחדרים בלי השלמת ניירת. זה עלול לעלות לי בתפקיד. רציתי שבוע לתקן את התיק, לא למחוק עובדות.\n\nעזבתי את הבית העירוני ב־20:14 והלכתי לבית הקפה בכיכר. נפגשתי עם עורך דין של ועד העובדים ב־20:22. נשארנו עד בערך 20:52. אפשר לבדוק בקופה ובמצלמה.\n\nמאיה ביקשה שאחתום על אישור תשלום לספק אורן. לא חתמתי. ההיקף בחשבונית לא התאים למה שראיתי. שלחתי לאייל את השאלה בצהריים, בלי ליידע אותה.\n\nמעולם לא קיבלתי מפתח לחצר. אין לי רישיון נהיגה תקף. הכרטיס שלי פותח את הכניסה הראשית בלבד.\n\nאני לא טוען שאני אדם מסודר. אני כן מבקש שתבדקו את ההבדל בין רשלנות מנהלית לבין מה שקרה בחדר.״\n\nלאחר גביית ההודעה נשמרה התכתבות M04. אימות הפגישה נמצא ברשומות R04.",
+        "en": "“Yes, I sent Eyal an unpleasant message. I authorised temporary room use without completing the paperwork. That could cost me my job. I wanted a week to put the file right, not erase facts.\n\nI left the municipal building at 20:14 and went to the square café. I met a staff-union lawyer at 20:22 and stayed until about 20:52. Check the till and camera.\n\nMaya asked me to sign off an Oran supplier payment. I did not sign. The billed area didn’t match what I had seen. I sent Eyal the question at midday without telling her.\n\nI have never had a yard key. I don’t hold a valid driving licence. My badge opens only the main entrance.\n\nI don’t claim to be organised. I do ask that you distinguish administrative negligence from what happened in that room.”\n\nCorrespondence M04 was preserved after interview. Meeting verification is in R04."
+      }
+    },
+    {
+      "id": "P10",
+      "app": "dossier",
+      "title": {
+        "he": "יומן תפיסה ושרשרת החזקה",
+        "en": "Seizure and custody register"
+      },
+      "subtitle": {
+        "he": "P10 • נחתם 15.09 / 03:10",
+        "en": "P10 • Signed 15.09 / 03:10"
+      },
+      "body": {
+        "he": "A01 | טלפון הנפגע | שולחן 204 | 21:32 | שקית 711\nA02 | מחשב נייד | שולחן 204 | 21:36 | שקית 712\nA03 | משקל ספרים מפליז, 1.6 ק״ג | רצפת 204 | 21:39 | שקית 713\nA04 | סיב כחול | כף יד הנפגע | 22:05 | מעטפה 714\nA05 | כרטיס A17 ומעיל עבודה | מדף מבואת שירות | 21:19 | שקית 709\nA06 | עותק פנקס מפתחות | חדר שומר | 22:20 | מעטפה 715\n\nהזמנים לעיל הם זמני תפיסה בשעון המשטרה. אינם מתארים מתי החפצים שימשו.\n\nA03 נמסר למעבדה ב־15.09 בשעה 06:45. A01 ו־A02 הועתקו בהעתקה לוגית מאושרת. תוכן פרטי שאינו קשור לחקירה הושמט מעמדת החוקר.\n\nכרטיס A17 רשום לאמיר שדה; הוא לא אמצעי זיהוי ביומטרי. אין להסיק נוכחות של אדם מרישום הכרטיס בלי ראיה תומכת.\n\nתצלום העגלה צולם לאחר תפיסת המעיל. גלגל חלופי צהוב הוא פרט לזיהוי העגלה בלבד.",
+        "en": "A01 | Victim’s phone | Desk 204 | 21:32 | Bag 711\nA02 | Laptop | Desk 204 | 21:36 | Bag 712\nA03 | Brass bookend, 1.6 kg | Floor 204 | 21:39 | Bag 713\nA04 | Blue fibre | Victim’s hand | 22:05 | Envelope 714\nA05 | Badge A17 and work jacket | Service alcove shelf | 21:19 | Bag 709\nA06 | Key ledger copy | Guard room | 22:20 | Envelope 715\n\nTimes above are seizure times on the police clock, not times of use.\n\nA03 reached the laboratory at 06:45 on 15.09. A01 and A02 received authorised logical extraction. Unrelated personal content was omitted from the investigator workstation.\n\nA17 is assigned to Amir Sade; it is not biometric identification. A badge event cannot establish a person’s presence without supporting evidence.\n\nThe trolley photograph was taken after the jacket was seized. Its yellow replacement wheel identifies the trolley only."
+      }
+    },
+    {
+      "id": "P11",
+      "app": "dossier",
+      "title": {
+        "he": "נספח חשבונאי שהועבר לביקורת",
+        "en": "Accounts appendix submitted for review"
+      },
+      "subtitle": {
+        "he": "P11 • חשבונית OS–184 • 09.09.2026",
+        "en": "P11 • Invoice OS–184 • 09.09.2026"
+      },
+      "body": {
+        "he": "ספק: אורן שירותי אתר • מספר ספק 441\nלקוח: בית הרשומות, נחל רימון\nשירות: פינוי וסידור שטחי אחסנה, אוגוסט 2026\nשטח לחיוב: 180 מ״ר × 240 ₪ = 43,200 ₪\nחתימת אישור תפעול: מ. רונן\nחתימת אישור מנהל: טרם הושלמה\n\nהערה בכתב יד של אייל שלו: ״להצליב עם מדידת חדרים, הצהרת זיקה ותיקון 3. אין להעביר לתשלום לפני בירור.״\n\nנספח מדידה: חדר B1 — 36 מ״ר; חדר B2 — 24 מ״ר; יתר החדרים לא נכללו בהזמנה. הזמנת המקור אישרה שני חדרים בלבד.\n\nהצהרת הספק וטיוטת הביקורת מצויות בקבצים F04 ו־F05. אין בתיק הזה אישור שהחשבונית שולמה. אין להציג ניסיון לאישור תשלום כאילו כסף כבר הועבר.\n\nרישומי תיקון קודמים עשויים להסביר טעות תמימה או דפוס חוזר; בדקו את מקור המספרים.",
+        "en": "Supplier: Oran Site Services • Vendor 441\nClient: Municipal Records House, Nahal Rimon\nService: storage clearance and organisation, August 2026\nBilled area: 180 m² × ₪240 = ₪43,200\nFacilities approval signature: M. Ronen\nManagement approval: pending\n\nEyal Shalev’s handwritten note: “Cross-check room measurement, interest declaration and revision 3. Do not submit for payment before clarification.”\n\nSurvey appendix: B1 — 36 m²; B2 — 24 m²; no other rooms in the order. The original commission authorised only those two rooms.\n\nSupplier declaration and audit draft are in F04 and F05. This dossier contains no confirmation of payment. An attempt to authorise payment is not proof that funds were transferred.\n\nEarlier revisions may indicate an innocent mistake or a repeated pattern. Check the source of the figures."
+      }
+    },
+    {
+      "id": "P12",
+      "app": "dossier",
+      "title": {
+        "he": "הודעת שומר הערב",
+        "en": "Statement: evening guard"
+      },
+      "subtitle": {
+        "he": "P12 • יוסי טל • 15.09 / 00:45",
+        "en": "P12 • Yossi Tal • 15.09 / 00:45"
+      },
+      "body": {
+        "he": "״ב־19:58 ראיתי את מאיה עם העגלה הכחולה, זו עם הגלגל הצהוב. היה עליה מעיל כחול. אני מזהה אותה מהשיחה שניהלנו בדלפק, לא מהצצה מרחוק. היא ביקשה לשמור אצלה את מפתח החצר עד הבוקר.\n\nסגרתי את הדלת הציבורית ב־20:15. אני רושם לפי שעון הטלפון שלי. ראיתי את הרכב הפרטי שלה יוצא ב־20:16 דרך החלון הקדמי.\n\nב־20:40 בערך ראיתי מבעד לזכוכית את אותה עגלה במבואת השירות. אדם במעיל כהה דחף אותה. לא ראיתי פנים ולא אוכל לומר אם זה גבר או אישה. התרשמתי שהוא יורד מהמדרגות המערביות, אבל לא ראיתי את כל המסלול.\n\nשמעתי את שער החצר נסגר סמוך ל־20:49. לא יצאתי לבדוק. כשהלכתי לכבות אורות בקומה השנייה ב־21:07 מצאתי את אייל.״\n\nאין לייחס לעד זיהוי שלא מסר. שעה משוערת אינה שנייה מדויקת. פרטי המפתח נבדקו מול A06; רישומי מצלמות נמצאים ב־R03.",
+        "en": "“At 19:58 I saw Maya with the blue trolley, the one with the yellow wheel. A blue jacket was on it. I recognised her while we spoke at the desk, not from a distant glimpse. She asked to keep the yard key until morning.\n\nI locked public access at 20:15. I use my phone clock. Through the front window I saw her private car leave at 20:16.\n\nAt about 20:40 I saw the same trolley through the frosted glass in the service alcove. Someone in a dark jacket was pushing it. I saw no face and cannot say whether it was a man or woman. I thought they came down the west stairs but did not see the whole route.\n\nI heard the yard gate close at about 20:49 and did not investigate. When I went upstairs to switch off lights at 21:07, I found Eyal.”\n\nDo not attribute an identification the witness did not make. An approximate time is not an exact second. Key details were checked against A06; camera records are in R03."
+      }
+    },
+    {
+      "id": "P13",
+      "app": "dossier",
+      "title": {
+        "he": "דוח כיול שעונים",
+        "en": "Clock comparison report"
+      },
+      "subtitle": {
+        "he": "P13 • טכנאית מערכות רות פלג • 15.09 / 07:30",
+        "en": "P13 • Systems technician Ruth Peleg • 15.09 / 07:30"
+      },
+      "body": {
+        "he": "מקור ייחוס: שעון משטרה מסונכרן. בקר S1 מנותק מסנכרון רשת מאז 12.09. אין שינוי באמצע ערב האירוע.\n\nבדיקה א׳ — זמן ייחוס 15.09 07:00:00; תצוגת S1: 07:07:40.\nבדיקה ב׳ — זמן ייחוס 15.09 07:10:00; תצוגת S1: 07:17:40.\nבדיקת תחזוקה שמורה מ־14.09 18:00:00; תצוגת S1: 18:07:40.\n\nהפרש קבוע בשלוש המדידות. יש לחשב את כיוון התיקון לפני השוואה למקורות אחרים.\n\nמצלמת G2: סטייה פחות משתי שניות.\nשרת הדואר ויומן השיחות: מסונכרנים.\nרישומי האוטובוס, בית הקפה והתיאטרון: נבדקו, סטייה פחות מחמש שניות.\n\nבתצוגת המאגר R01 מופיעים ערכי S1 המקוריים, ללא תיקון. אין תקלה בזיהוי הכרטיס. הכיול אינו מאפשר לזהות את מי שנשא אותו.\n\nחתימה דיגיטלית נשמרה במערכת הראיות. אין צורך לבצע חיפוש חיצוני או להכיר תקן טכני.",
+        "en": "Reference: synchronised police clock. S1 controller has been offline from network time since 12.09. No clock change occurred during the incident evening.\n\nTest A — reference 15.09 07:00:00; S1 display 07:07:40.\nTest B — reference 15.09 07:10:00; S1 display 07:17:40.\nSaved maintenance test — reference 14.09 18:00:00; S1 display 18:07:40.\n\nThe offset is constant across all three measurements. Establish the direction of correction before comparing against other sources.\n\nG2 camera: less than two seconds drift.\nMail server and call log: synchronised.\nBus, café and theatre records: verified within five seconds.\n\nR01 displays original S1 values without correction. There is no badge-reading fault. Calibration cannot identify who carried the badge.\n\nDigital signature retained in the evidence system. No outside search or technical standard knowledge is necessary."
+      }
+    },
+    {
+      "id": "P14",
+      "app": "dossier",
+      "title": {
+        "he": "דף עבודה לחוקר",
+        "en": "Investigator worksheet"
+      },
+      "subtitle": {
+        "he": "P14 • לשימושכם • אין חובה למלא על נייר",
+        "en": "P14 • For your use • Paper completion optional"
+      },
+      "body": {
+        "he": "בנו ציר זמן משותף. ליד כל שעה ציינו מקור, שעון והאם זו עובדה, הערכה או טענה.\n\nזמן | מקור | אדם / מקום | מידת ודאות\n____________________________\n____________________________\n____________________________\n____________________________\n____________________________\n\nבדקו בנפרד: יכולת גישה, נוכחות, מניע וראיה למעשה עצמו. תנו לכל הסבר חלופי הזדמנות לפני שתשללו אותו.\n\nמה עדיין אינו מוסבר?\n____________________________\n____________________________\n\nהפניות: P01–P14 בתיק; F בסייר הקבצים; M בדואר; C בהודעות; R במאגר. מזהים אלה זהים בשתי השפות. מסמכי התיק זמינים גם בסייר.\n\nהגישו את המסקנה דרך המחברת → דוח מסכם. דוח שגוי לא יחשוף את הפתרון. סגירת התיק וחשיפת ההסבר דורשות בחירה מפורשת. אפשר לבקש הכוונה מדורגת דרך כפתור העזרה.",
+        "en": "Build a common timeline. For each time, identify source, clock and whether it is a fact, estimate or claim.\n\nTime | Source | Person / location | Confidence\n____________________________\n____________________________\n____________________________\n____________________________\n____________________________\n\nAssess access, presence, motive and evidence of the act separately. Give alternative explanations a fair hearing before rejecting them.\n\nWhat remains unexplained?\n____________________________\n____________________________\n\nReferences: P01–P14 in the dossier; F in Files; M in Mail; C in Messages; R in Records. IDs match in both languages. Dossier pages are also available in Files.\n\nSubmit through Notebook → Final report. An incorrect report will not reveal the solution. Closing the case and revealing the explanation requires an explicit choice. Graduated guidance is available through Help."
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "id": "F01",
+      "app": "files",
+      "title": {
+        "he": "תצלומי חדר העיון",
+        "en": "Reading room photographs"
+      },
+      "subtitle": {
+        "he": "תיק זירה / 15.09 / 07:45",
+        "en": "Scene folder / 15.09 / 07:45"
+      },
+      "body": {
+        "he": "צילום תיעוד לאחר פינוי הזירה. אין בתצלום שחזור של רגע האירוע. שולחן העיון, הכיסא והמדפים במיקומם המקורי; משקל הספרים המצולם הוא בן זוגו של A03 שנותר על המדף. שני המשקלים שייכים למקום, לא הובאו מבחוץ.\n\nמדידת השולחן: 1.8 × 0.9 מטר. הפגיעה בכיסא שטחית. אין חלל מסתור מאחורי המדפים. המחיצה המערבית מובילה למסדרון השירות המתואר ב־P04.\n\nצילום רחב מאפשר להבין את החלל; אין צורך להגדיל פיקסלים או לזהות טקסט זעיר כדי לפתור את התיק.",
+        "en": "Documentation after scene clearance, not a reconstruction of the incident. Desk, chair and shelves retain their positions; the pictured bookend is the matching partner of A03, left on the shelf. Both belonged to the room and were not brought in.\n\nDesk dimensions: 1.8 × 0.9 metres. Chair damage is superficial. There is no hiding place behind the shelves. The western partition leads to the service corridor in P04.\n\nThis wide photograph establishes the setting. No pixel enlargement or tiny-text reading is required to solve the case."
+      },
+      "image": "assets/scene.jpg",
+      "folder": "scene"
+    },
+    {
+      "id": "F02",
+      "app": "files",
+      "title": {
+        "he": "מעבר שירות ועגלת עבודה",
+        "en": "Service passage and work trolley"
+      },
+      "subtitle": {
+        "he": "תיק זירה / 15.09 / 08:00",
+        "en": "Scene folder / 15.09 / 08:00"
+      },
+      "body": {
+        "he": "העגלה כחולה עם גלגל חלופי צהוב. לידית משטח אריג כחול. עקבות אבק בחצר אינן מאפשרות זיהוי נעל. לא נמצאו טביעות אצבע שמישות על העגלה.\n\nהגלגל הצהוב הותקן ב־11.09. בהזמנת העבודה נכתב: ״עגלה יחידה מסוג זה באתר״. פרט זה מאמת איזו עגלה ראה השומר; אינו מזהה מי דחף אותה.\n\nS1 נפתחת בכרטיס משני הצדדים; שחרור חירום מתועד בנפרד ולא הופעל. אין מנהרה, חלון גישה או מעבר שלישי בין החצר לקומה. המעיל הוסר לפני התצלום.",
+        "en": "The trolley is blue with one yellow replacement wheel and blue fabric on its handle. Yard dust cannot identify a shoe. No usable trolley fingerprints were recovered.\n\nThe yellow wheel was fitted on 11.09. The work order says: “Only trolley of this type on site.” This identifies the trolley the guard saw, not its operator.\n\nS1 uses badges in both directions; emergency release is logged separately and was not used. There is no tunnel, access window or third route between yard and floor. The jacket was removed before photography."
+      },
+      "image": "assets/corridor.jpg",
+      "folder": "scene"
+    },
+    {
+      "id": "F03",
+      "app": "files",
+      "title": {
+        "he": "תוצאת מעבדה משלימה",
+        "en": "Supplementary laboratory result"
+      },
+      "subtitle": {
+        "he": "מעבדה / A03–A04 / 15.09 / 12:30",
+        "en": "Laboratory / A03–A04 / 15.09 / 12:30"
+      },
+      "body": {
+        "he": "A03: נמצאו עקבות דם הנפגע בפינת משקל הספרים. צורת המגע תואמת לפגיעה. אין טביעת אצבע שמישה. שאריות ניקוי אינן מאפשרות לקבוע חומר מסוים או מועד ניגוב.\n\nA04: הסיב תואם לסוג האריג שעל ידית העגלה וגם למעיל A05. אין אפשרות להבחין ביניהם במבחן זה.\n\nמסקנה מוגבלת: A03 הוא כלי פגיעה תואם ונתמך. הסיב תומך במגע עם אריג שכיח באתר, אך אינו ראיה המייחדת חשוד. אין תוצאה שמאפשרת לזהות אדם מסוים מתוך הממצאים הפיזיים לבדם.\n\nהערת המעבדה: אין להסיק ״ללא טביעות = כפפות״ בוודאות. אי-הפקת טביעות אינה קביעה כיצד הוחזק החפץ.",
+        "en": "A03: victim’s blood traces were recovered at the bookend corner. Contact geometry matches the injury. No usable fingerprint. Cleaning residue cannot identify a specific product or time of wiping.\n\nA04: fibre type matches both the trolley handle fabric and jacket A05. This test cannot distinguish between them.\n\nLimited conclusion: A03 is a supported, compatible impact object. The fibre supports contact with fabric common on site but does not distinguish a suspect. Physical findings alone do not identify a particular person.\n\nLaboratory caution: “No prints means gloves” is not certain. Failure to recover prints cannot establish how an object was handled."
+      },
+      "folder": "reports"
+    },
+    {
+      "id": "F04",
+      "app": "files",
+      "title": {
+        "he": "הצהרת זיקה — ספק 441",
+        "en": "Interest declaration — vendor 441"
+      },
+      "subtitle": {
+        "he": "רכש / טופס 6 / 02.01.2026",
+        "en": "Procurement / Form 6 / 02.01.2026"
+      },
+      "body": {
+        "he": "שם עסק: אורן שירותי אתר.\nמבנה: עסק בבעלות יחיד.\nבעלים רשום ומקבל תקבולים: מאיה רונן.\nשם מסחרי מאושר ברישום המקומי; מספר ספק 441.\n\nהצהרה חתומה: ״אני עובדת בית הרשומות בתפקיד מנהלת תפעול. איני מוסמכת לאשר בעצמי התקשרות או תשלום לעסק שבבעלותי. נדרש אישור ועדת חריגים מראש.״\n\nסטטוס ועדה: בקשה לתקופת ניסיון בינואר–מרץ בלבד אושרה. אין הארכה בתיק. לא נמצאה בקשת הארכה לאוגוסט.\n\nאימות: חתימה ותיק הספק נבדקו מול מחלקת הרכש. שם העסק אינו מצביע על אדם בשם אורן; זהו שם מסחרי.",
+        "en": "Business: Oran Site Services.\nStructure: sole proprietorship.\nRegistered owner and payee: Maya Ronen.\nLocally registered trade name; vendor 441.\n\nSigned declaration: “I am employed by the Records House as facilities manager. I may not approve a contract or payment to my own business. Prior exceptions-committee approval is required.”\n\nCommittee status: a January–March trial only was approved. No extension is filed, and no August extension request was found.\n\nVerification: signature and supplier file checked with Procurement. The trade name does not establish the existence of a person named Oran."
+      },
+      "folder": "audit"
+    },
+    {
+      "id": "F05",
+      "app": "files",
+      "title": {
+        "he": "טיוטת ביקורת — גרסה 3",
+        "en": "Audit draft — revision 3"
+      },
+      "subtitle": {
+        "he": "מסמכי אייל שלו / 14.09 / 18:52",
+        "en": "Eyal Shalev documents / 14.09 / 18:52"
+      },
+      "body": {
+        "he": "תחום: שירותי אחסנה של ספק 441.\n\n1. ההזמנה המקורית: B1 ו־B2, סך הכול 60 מ״ר. לא בוצעה הרחבה. תשריטי החדרים ומסירת מפתחות תואמים לכך.\n2. גרסה 1 של החשבונית: 60 מ״ר. בגרסה 2, שנשלחה מתיבת התפעול ב־09.09, שונה המספר ל־180. לא נוספו חדרים.\n3. תיבת התפעול מנוהלת בידי מ. רונן בלבד לפי הרשאת הרכש. ניב הררי לא חתם על התשלום.\n4. שתי חשבוניות קודמות באותו פער אושרו לתשלום ביולי. יש לדרוש השבה של ההפרש ולדווח על ניגוד עניינים. אין לבלבל בינן לבין חשבונית אוגוסט שטרם שולמה.\n\nמסקנת ביקורת מנהלית: נדרשת השעיית הרשאת אישור, בדיקת ההעברות הקודמות והעברה לביקורת משמעת. יש לקבל תגובת בעלת העסק עד 15.09 בשעה 09:00.\n\nהטיוטה לא קובעת דבר בנוגע למוות. היא נשמרה לפניו.",
+        "en": "Scope: storage services by vendor 441.\n\n1. Original order: B1 and B2, total 60 m². No extension occurred. Room plans and key handover agree.\n2. Invoice revision 1: 60 m². Revision 2, sent from the facilities mailbox on 09.09, changed the figure to 180 without adding rooms.\n3. Procurement access lists M. Ronen as the sole facilities-mailbox operator. Niv Harari did not approve payment.\n4. Two earlier invoices with the same discrepancy were paid in July. Seek repayment of the excess and report the conflict of interest. These are distinct from the unpaid August invoice.\n\nAdministrative conclusion: suspend approval authority, investigate earlier transfers and refer for disciplinary review. Obtain the business owner’s response by 15.09 at 09:00.\n\nThis draft makes no finding about the death. It was saved beforehand."
+      },
+      "folder": "audit"
+    },
+    {
+      "id": "F06",
+      "app": "files",
+      "title": {
+        "he": "בית הרשומות — צילום חוץ",
+        "en": "Records House — exterior survey"
+      },
+      "subtitle": {
+        "he": "תיק זירה / 15.09 / 18:40",
+        "en": "Scene folder / 15.09 / 18:40"
+      },
+      "body": {
+        "he": "רחוב הגפן 8, נחל רימון. שתי קומות. כניסה ציבורית בחזית, חצר שירות מאחור. הצילום למטרות התמצאות בלבד ונעשה ביום שאחרי האירוע.\n\nהעיר והמבנה בדיוניים. כל הנתונים הדרושים על דרכי הגישה נמצאים בתיק; אין צורך במפות חיצוניות.",
+        "en": "8 Vine Street, Nahal Rimon. Two floors; public entrance at front, service yard at rear. Orientation photograph taken the following day.\n\nThe town and building are fictional. All required access information is in the dossier; no external map is necessary."
+      },
+      "image": "assets/exterior.jpg",
+      "folder": "scene"
+    },
+    {
+      "id": "M01",
+      "app": "mail",
+      "title": {
+        "he": "לפני הגשת הדוח",
+        "en": "Before the report is filed"
+      },
+      "subtitle": {
+        "he": "אייל שלו ← מאיה רונן • 14.09 / 18:56",
+        "en": "Eyal Shalev → Maya Ronen • 14.09 / 18:56"
+      },
+      "body": {
+        "he": "מאיה,\nסיימתי את גרסה 3. המספר 180 אינו נתמך באף הזמנה. מכיוון שהעסק בבעלותך, אני חייב להעביר גם את ההצהרה הישנה. אני כאן עד תשע אם תרצי למסור תגובה.\n\nאין לי סמכות להבטיח שהוועדה תסתפק בתיקון החשבונית. אעביר את הטבלה המקורית ואת הגרסה ששונתה. אנא אל תבקשי ממני שוב להחליף את המקור.\nאייל\n\nקובץ מצורף: F05 — טיוטת ביקורת, גרסה 3.\nסטטוס שרת: נמסר 18:56; אין אישור קריאה.",
+        "en": "Maya,\nRevision 3 is finished. No order supports 180. Because you own the business, I must include the earlier declaration. I am here until nine if you wish to respond.\n\nI cannot promise the committee will accept an invoice correction alone. I will forward the original schedule and the altered revision. Please do not ask me again to replace the original.\nEyal\n\nAttachment: F05 — audit draft, revision 3.\nServer status: delivered 18:56; no read receipt."
+      },
+      "attachment": "F05",
+      "folder": "inbox"
+    },
+    {
+      "id": "M02",
+      "app": "mail",
+      "title": {
+        "he": "תגובה: לפני הגשת הדוח",
+        "en": "Re: Before the report is filed"
+      },
+      "subtitle": {
+        "he": "מאיה רונן ← אייל שלו • 14.09 / 19:04",
+        "en": "Maya Ronen → Eyal Shalev • 14.09 / 19:04"
+      },
+      "body": {
+        "he": "אייל, זה יוצג כאילו עשיתי משהו מכוון. אפשר פשוט להשאיר שישים ולסגור את העניין? לא אוכל להחזיר את מה שכבר נכנס לעסק בחודש שעבר. זה ישבור אותי.\n\nאני חייבת לצאת עכשיו, אבל אדבר איתך. אל תגיש שום דבר לפני שנדבר.\nמאיה\n\nמקור: תיבת הדואר של הנפגע. מזהה שרת 77192. אין הודעת המשך בשרשור הזה.",
+        "en": "Eyal, this will make it look deliberate. Can’t we leave it at sixty and close the matter? I cannot repay what the business received last month. It would ruin me.\n\nI have to leave now, but I will speak to you. Don’t file anything before we talk.\nMaya\n\nSource: victim’s mailbox. Server ID 77192. No further message in this thread."
+      },
+      "folder": "inbox"
+    },
+    {
+      "id": "M03",
+      "app": "mail",
+      "title": {
+        "he": "עבודת קורא שירות — דוח תקלה",
+        "en": "Service reader maintenance — fault report"
+      },
+      "subtitle": {
+        "he": "רות פלג ← תפעול • 13.09 / 11:10",
+        "en": "Ruth Peleg → Facilities • 13.09 / 11:10"
+      },
+      "body": {
+        "he": "בקר S1 ממשיך לקבל כרטיסים; התקלה היא בשעון בלבד. אין צורך להשאיר דלת פתוחה. טכנאי יגיע ב־16.09. עד אז יש לתעד שעות מול טלפון.\n\nמצלמת המדרגות נשלחה לתיקון בנפרד. מצלמת G2 אינה תלויה בבקר ופועלת כרגיל.\n\nהכרטיס A17 מאפשר מעבר שירות גם אחרי סגירת הלובי. אין לבטל הרשאה בלי הודעה לממונה.",
+        "en": "S1 still accepts badges; the fault concerns its clock only. Do not leave the door open. A technician is scheduled for 16.09. Until then record times against a phone.\n\nThe stairwell camera was sent for separate repair. G2 is independent of the controller and operating normally.\n\nA17 permits service access after lobby closure. Do not cancel access without notifying the supervisor."
+      },
+      "folder": "inbox"
+    },
+    {
+      "id": "M04",
+      "app": "mail",
+      "title": {
+        "he": "הבקשה לארכה",
+        "en": "Request for an extension"
+      },
+      "subtitle": {
+        "he": "ניב הררי ↔ אייל שלו • 14.09 / 12:12–12:26",
+        "en": "Niv Harari ↔ Eyal Shalev • 14.09 / 12:12–12:26"
+      },
+      "body": {
+        "he": "12:12 ניב: אם אתה מגיש מחר, אתה גומר לי את הקריירה. תן לי שבוע להסדיר את רישיונות החדרים.\n12:19 אייל: אתאר מה חסר; לא אכתוב שפעלת במרמה בלי בסיס. את סוגיית הספק אעביר בנפרד.\n12:26 ניב: בסדר. ועל החשבונית של אורן — ביקשו ממני חתימה על 180 מטר. אני ספרתי רק שני חדרים. לא אחתום על זה. כדאי לבדוק את הגרסה הראשונה.\n\nהמזכירות מאשרת שרישיונות השימוש שלא חודשו היו בסמכות ניב. אין ממצא שהוא נהנה מכספי ספק 441.",
+        "en": "12:12 Niv: If you file tomorrow you end my career. Give me a week to regularise the room permits.\n12:19 Eyal: I will describe missing documents. I will not allege fraud without grounds. The supplier issue will be a separate referral.\n12:26 Niv: Fine. About the Oran invoice — I was asked to sign for 180 metres. I counted only two rooms. I won’t approve it. Check the first revision.\n\nThe secretariat confirms Niv was responsible for lapsed use permits. No finding links him to profits from vendor 441."
+      },
+      "folder": "inbox"
+    },
+    {
+      "id": "M05",
+      "app": "mail",
+      "title": {
+        "he": "הזמנת רכב U-12",
+        "en": "Vehicle U-12 booking"
+      },
+      "subtitle": {
+        "he": "מערכת צי רכב ← תפעול • 14.09 / 17:31",
+        "en": "Fleet system → Facilities • 14.09 / 17:31"
+      },
+      "body": {
+        "he": "הזמנה 928 אושרה.\nרכב: U-12, מסחרית לבנה, מדבקה ירוקה בדלת האחורית.\nמקבלת: מאיה רונן.\nמסירה: 18:05, חניון אגף תפעול, מרחק הליכה 4 דקות מהחזית.\nמטרה רשומה: הובלת ארגזי ארכיון.\nהחזרה בפועל: 20:56. תיבת המפתח נפתחה בכרטיס האישי של מאיה.\n\nאחריות שימוש אינה ניתנת להעברה בלי רישום אצל אחראי הרכב. לא נרשמה העברה. אין למערכת זו GPS.",
+        "en": "Booking 928 approved.\nVehicle: U-12, white utility van, green sticker on rear door.\nIssued to: Maya Ronen.\nHandover: 18:05, facilities car park, four minutes on foot from the front entrance.\nStated purpose: moving archive boxes.\nActual return: 20:56. The key box was opened using Maya’s personal card.\n\nUse cannot be transferred without a fleet officer record. No transfer was recorded. This system has no GPS."
+      },
+      "folder": "inbox"
+    },
+    {
+      "id": "M06",
+      "app": "mail",
+      "title": {
+        "he": "לוח אירועי ספטמבר",
+        "en": "September events schedule"
+      },
+      "subtitle": {
+        "he": "מזכירות ← כל העובדים • 14.09 / 09:00",
+        "en": "Secretariat → All staff • 14.09 / 09:00"
+      },
+      "body": {
+        "he": "יום חמישי: הדרכת שימור נייר ב־10:00.\nחדר המטבח ייסגר לצביעה ביום רביעי.\nמי שהזמין קפה לישיבת הבוקר מתבקש לאסוף את הקבלה.\n\nנא לא להשאיר חפצים אישיים על עגלות עבודה. הודעות אבידה נשמרות בקבוצת הצוות.\n\nזוהי הודעה כללית. אין קבצים מצורפים.",
+        "en": "Thursday: paper conservation training at 10:00.\nThe kitchen closes for painting on Wednesday.\nWhoever ordered coffee for the morning meeting should collect the receipt.\n\nPlease do not leave personal belongings on work trolleys. Lost-property messages are retained in the staff group.\n\nGeneral notice. No attachments."
+      },
+      "folder": "inbox"
+    },
+    {
+      "id": "M07",
+      "app": "mail",
+      "title": {
+        "he": "תזכורת ועדת ביקורת",
+        "en": "Audit committee reminder"
+      },
+      "subtitle": {
+        "he": "מזכירות ועדה ← אייל שלו • 14.09 / 16:10",
+        "en": "Committee secretary → Eyal Shalev • 14.09 / 16:10"
+      },
+      "body": {
+        "he": "המועד שנקבע למסירת הדוח הוא 15.09 בשעה 09:00. ועדת החריגים לא אישרה הארכה לספק 441 אחרי מרץ. נא לצרף הצהרת זיקה והעתקי גרסאות.\n\nאם נדרשת הגנת עדים או תמיכה בחוקר, יש לפנות לממונה. לא התקבלה בקשה כזו. אין להסיק מכך שלא הייתה מצוקה.",
+        "en": "The report is due on 15.09 at 09:00. The exceptions committee did not extend vendor 441 approval beyond March. Please attach the interest declaration and revision copies.\n\nWitness protection or investigator support should be requested through the supervisor. No such request was received. This does not establish the absence of concern."
+      },
+      "folder": "inbox"
+    },
+    {
+      "id": "M08",
+      "app": "mail",
+      "title": {
+        "he": "קבלה — החלפת גלגל",
+        "en": "Receipt — replacement wheel"
+      },
+      "subtitle": {
+        "he": "מחסן עירוני ← תפעול • 11.09 / 14:00",
+        "en": "Municipal store → Facilities • 11.09 / 14:00"
+      },
+      "body": {
+        "he": "התקנה הושלמה: גלגל צהוב יחיד לעגלת שירות כחולה. לא הוזמנה עגלה נוספת. עלות 96 ₪.\n\nהטכנאי אמיר שדה קיבל את החלק. מנהלת התפעול מאיה רונן אישרה את העבודה. אפשר להשתמש בעגלה באופן רגיל.",
+        "en": "Completed: one yellow wheel on blue service trolley. No second trolley ordered. Cost ₪96.\n\nTechnician Amir Sade received the part. Facilities manager Maya Ronen approved the work. Trolley cleared for ordinary use."
+      },
+      "folder": "inbox"
+    },
+    {
+      "id": "C01",
+      "app": "messages",
+      "title": {
+        "he": "קבוצת צוות — משמרת ערב",
+        "en": "Staff group — evening shift"
+      },
+      "subtitle": {
+        "he": "14.09 / 19:43–20:00",
+        "en": "14.09 / 19:43–20:00"
+      },
+      "body": {
+        "he": "19:43 אמיר: המעיל שלי על העגלה ליד השירות, עם הכרטיס. מי שמזיז שיכתוב לי.\n19:47 מאיה: אני לוקחת אותה לשני סבבים, אחזיר ליד S1.\n19:49 אמיר: אני יוצא עוד מעט לאוטובוס. תשאירי את המעיל על המדף אם אני כבר לא פה.\n19:51 מאיה: בסדר.\n20:00 יוסי: נועל כניסה ציבורית בעוד רבע שעה. מי שנשאר שיוודא שיש לו כרטיס.\n\nהייצוא אושר בידי מנהל המערכת; לא נמחקו הודעות בטווח. ההודעות נשלחו לפני האירוע.",
+        "en": "19:43 Amir: My jacket’s on the trolley by service, with my badge. If you move it, message me.\n19:47 Maya: Taking it for two runs. I’ll return it by S1.\n19:49 Amir: Leaving for the bus soon. Leave the jacket on the shelf if I’m already gone.\n19:51 Maya: Okay.\n20:00 Yossi: Public door locks in fifteen minutes. Anyone staying should have their badge.\n\nExport authorised by the administrator; no deleted messages in this interval. Sent before the incident."
+      },
+      "folder": "team"
+    },
+    {
+      "id": "C02",
+      "app": "messages",
+      "title": {
+        "he": "אייל ↔ אמיר",
+        "en": "Eyal ↔ Amir"
+      },
+      "subtitle": {
+        "he": "14.09 / 17:10–17:22",
+        "en": "14.09 / 17:10–17:22"
+      },
+      "body": {
+        "he": "17:10 אייל: נוכל לדבר בחמישי על ההלוואה? אין לחץ להחזיר הכול בבת אחת.\n17:15 אמיר: די עם ההודעות באמצע יום עבודה. אני יודע מה אני חייב.\n17:18 אייל: מבין. חמישי בעשר מתאים?\n17:22 אמיר: כן. מצטער על הטון.\n\nאין העברה בנקאית באותו ערב. מקור החוב הוא הלוואה פרטית, לא חשבונית של ספק.",
+        "en": "17:10 Eyal: Can we talk Thursday about the loan? No need to repay it all at once.\n17:15 Amir: Stop messaging during work. I know what I owe.\n17:18 Eyal: Understood. Thursday at ten?\n17:22 Amir: Yes. Sorry about the tone.\n\nNo transfer that evening. The debt is a private loan, not a supplier invoice."
+      },
+      "folder": "personal"
+    },
+    {
+      "id": "C03",
+      "app": "messages",
+      "title": {
+        "he": "אייל ↔ דנה",
+        "en": "Eyal ↔ Dana"
+      },
+      "subtitle": {
+        "he": "13–14.09 / שיחה אישית",
+        "en": "13–14.09 / Personal conversation"
+      },
+      "body": {
+        "he": "13.09 21:10 דנה: אני לא מוכנה שעורך הדין שלך ישנה שוב את הסכום.\n13.09 21:18 אייל: בואי נדבר מחר בלי עורכי הדין.\n14.09 18:12 דנה: יש לי חזרה. אתקשר בהפסקה.\n14.09 18:14 אייל: אהיה בחדר עיון עד תשע.\n14.09 20:39 דנה: הקו נפל?\n14.09 20:41 דנה: תתקשר כשתוכל.\n\nההודעות האחרונות נמסרו אך אין אישור קריאה. אין הודעה שבה הנפגע מאשר שהוא בסדר לאחר השיחה.",
+        "en": "13.09 21:10 Dana: I won’t accept your lawyer changing the amount again.\n13.09 21:18 Eyal: Let’s talk tomorrow without lawyers.\n14.09 18:12 Dana: Rehearsal tonight. I’ll call during the break.\n14.09 18:14 Eyal: I’m in the reading room until nine.\n14.09 20:39 Dana: Did the line drop?\n14.09 20:41 Dana: Call when you can.\n\nLast messages delivered; no read receipts. The victim did not confirm he was well after the call."
+      },
+      "folder": "personal"
+    },
+    {
+      "id": "C04",
+      "app": "messages",
+      "title": {
+        "he": "ניב ↔ מזכירות",
+        "en": "Niv ↔ Secretariat"
+      },
+      "subtitle": {
+        "he": "14.09 / 16:40–16:46",
+        "en": "14.09 / 16:40–16:46"
+      },
+      "body": {
+        "he": "16:40 ניב: אני בפגישה עם נציג הוועד בשמונה ועשרים בכיכר. לא לענות בשמי לפניות הביקורת.\n16:44 מזכירות: תיקי הרישיונות נשארו על השולחן.\n16:46 ניב: ראיתי. אטפל בבוקר.\n\nהפגישה נקבעה לפני שעת האירוע המשוערת. עצם קביעת פגישה אינה הוכחה להשתתפות; יש לבדוק אימות חיצוני.",
+        "en": "16:40 Niv: Meeting the union representative in the square at twenty past eight. Don’t respond to audit requests on my behalf.\n16:44 Secretariat: Permit files are on the desk.\n16:46 Niv: Seen. I’ll handle them in the morning.\n\nMeeting arranged before the estimated incident. An appointment alone does not prove attendance; seek independent confirmation."
+      },
+      "folder": "team"
+    },
+    {
+      "id": "R01",
+      "app": "records",
+      "title": {
+        "he": "בקר S1 — רישום גישה מקורי",
+        "en": "S1 controller — raw access log"
+      },
+      "subtitle": {
+        "he": "מערכת גישה / 14.09 / שעון מקומי",
+        "en": "Access system / 14.09 / Local device clock"
+      },
+      "body": {
+        "he": "פורמט: זמן תצוגה | כרטיס | פעולה\n19:35:20 | A17 | כניסה\n19:52:10 | M08 | כניסה\n20:05:40 | M08 | יציאה\n20:41:50 | A17 | כניסה\n20:49:00 | A17 | יציאה\n21:22:30 | GUARD | יציאה\n21:22:40 | GUARD | כניסה\n\nA17 — אמיר שדה. M08 — מאיה רונן. GUARD — כרטיס שומר.\n\nאלה זמני בקר, לא שעון המשטרה. ראו P13 לפני הצבת האירועים על ציר זמן. רשומת הכניסה האחרונה היא סיור השומר בזמן אמת 21:15, אחרי גילוי הגופה.\n\nכל שבע הרשומות שלמות ונבדקו מול רצף הבקר. לא היו פתיחות אחרות של S1 בטווח 19:20–21:20 זמן אמת.",
+        "en": "Format: displayed time | badge | action\n19:35:20 | A17 | entry\n19:52:10 | M08 | entry\n20:05:40 | M08 | exit\n20:41:50 | A17 | entry\n20:49:00 | A17 | exit\n21:22:30 | GUARD | exit\n21:22:40 | GUARD | entry\n\nA17 — Amir Sade. M08 — Maya Ronen. GUARD — guard badge.\n\nDevice times, not police-clock times. Consult P13 before placing events on a timeline. The last entry is the guard’s real-time 21:15 patrol after discovery.\n\nAll seven records are complete and sequence-verified. No other S1 openings occurred between real-time 19:20 and 21:20."
+      },
+      "folder": "access"
+    },
+    {
+      "id": "R02",
+      "app": "records",
+      "title": {
+        "he": "מסירת מפתחות וחזקת רכב",
+        "en": "Key custody and vehicle handover"
+      },
+      "subtitle": {
+        "he": "A06 / יומן תפעול • אומת 15.09",
+        "en": "A06 / Operations ledger • Verified 15.09"
+      },
+      "body": {
+        "he": "14.09 17:55 | מפתח K2 לשער G2 | נמסר למאיה רונן | חתימה אומתה.\n14.09 18:05 | מפתח רכב U-12 | נמסר למאיה רונן | הזמנה 928.\n14.09 19:58 | K2 נשאר ברשות המקבלת עד הבוקר | אישור שומר.\n14.09 20:56 | U-12 הוחזר; תיבת מפתח נפתחה בכרטיס מאיה.\n15.09 00:12 | K2 נמסר למשטרה מידיה של מאיה.\n\nK1: במעטפה חתומה אצל קבלן עבודות שהופקד בביתו; החותם נבדק ללא פתיחה מאז 12.09.\nK3: כספת תחזוקה; חותם תקין, נפתח לראשונה ב־15.09 בידי המשטרה.\n\nאין כפילויות נוספות לפי יומן המנעולן. במצלמה נראה שימוש במפתח ולא פריצה. לא דווח על אובדן K2 או מסירתו לאחר. האחריות לבדה אינה מוכיחה מי נהג, אך היא מצמצמת אפשרויות.",
+        "en": "14.09 17:55 | K2 for G2 gate | Issued to Maya Ronen | Signature verified.\n14.09 18:05 | U-12 vehicle key | Issued to Maya Ronen | Booking 928.\n14.09 19:58 | K2 retained until morning | Guard confirmation.\n14.09 20:56 | U-12 returned; key box opened using Maya’s card.\n15.09 00:12 | K2 handed to police by Maya.\n\nK1: sealed envelope with contractor at his home; seal verified intact since 12.09.\nK3: maintenance safe; seal intact, first opened by police on 15.09.\n\nLocksmith ledger lists no other copies. Camera shows key use, not forced entry. No loss or transfer of K2 reported. Custody alone does not establish the driver, but narrows the possibilities."
+      },
+      "folder": "access"
+    },
+    {
+      "id": "R03",
+      "app": "records",
+      "title": {
+        "he": "בדיקת מצלמות שערים",
+        "en": "Gate camera review"
+      },
+      "subtitle": {
+        "he": "תיעוד חזותי / 14.09 / זמן מסונכרן",
+        "en": "Visual records / 14.09 / Synchronised time"
+      },
+      "body": {
+        "he": "20:16:08 | חזית | רכב פרטי של מאיה יוצא. נראית נהגת תואמת, זיהוי בגד תומך. אין צילום המשך של הרחוב.\n20:27:32 | G2 | מסחרית U-12 נכנסת לחצר, מדבקה ירוקה ומספר צי תואמים. נהג/ת יוצא/ת ופותח/ת במפתח; הפנים אינם נראים.\n20:48:41 | G2 | אותה מסחרית יוצאת; השער ננעל במפתח. אין אדם נוסף נראה בפריים.\n\nG2 והמעבר הרגלי מכוסים ברצף 20:15–20:55. לא נראו כניסות או יציאות אחרות. המצלמה אינה מכסה את אזור S1 בתוך החצר.\n\nהמרחק מחניון החזית לחניון התפעול הוא ארבע דקות ברגל. החניה הקדמית אינה היציאה היחידה מהמתחם. אין בסיס לקביעה שיציאת רכב פרטי מוכיחה נסיעה הביתה.\n\nאלה תצפיות מתועדות מן הסרטון, לא זיהוי פנים אוטומטי.",
+        "en": "20:16:08 | Front | Maya’s private car leaves. Driver and clothing are consistent with her. No subsequent street coverage.\n20:27:32 | G2 | Van U-12 enters the yard; green sticker and fleet number match. Driver gets out and opens gate with a key; face not visible.\n20:48:41 | G2 | Same van leaves; gate locked with key. No second person visible in frame.\n\nG2 and the pedestrian gate are continuously covered from 20:15 to 20:55. No other arrivals or departures. Camera does not cover S1 within the yard.\n\nFront parking to facilities parking is four minutes on foot. The front car park is not the site’s only exit. A private-car departure does not establish a journey home.\n\nThese are documented video observations, not automatic facial identification."
+      },
+      "folder": "cameras"
+    },
+    {
+      "id": "R04",
+      "app": "records",
+      "title": {
+        "he": "אימותי מיקום חיצוניים",
+        "en": "Independent location checks"
+      },
+      "subtitle": {
+        "he": "בקשות משטרה / אומתו 15.09",
+        "en": "Police enquiries / Verified 15.09"
+      },
+      "body": {
+        "he": "אמיר שדה — אוטובוס 42:\n20:19:12 תיקוף נסיעה ליד המרפאה. צילום הפנים מאשר את אמיר.\n20:31:05 וגם 20:44:20 נראה ברצף צילום בתוך האוטובוס, בדרך לשכונת גבעה, במרחק 7–10 ק״מ מבית הרשומות. ירידה ב־20:51. אין עצירה ליד הארכיון לאחר 20:19.\n\nדנה לב — תיאטרון:\nצילום מבואה רציף 20:24–21:02. נראית בשיחת טלפון ליד דלת האולם 20:29–20:38. נשארת בפריים גם אחרי סיום השיחה. מרחק נסיעה מינימלי 11 דקות.\n\nניב הררי — בית קפה:\nצילום קופה ושולחן רציף 20:22–20:52, עם עורך הדין. אין יציאה מהפריים ליותר מ־12 שניות. זמן הליכה מינימלי לארכיון 6 דקות.\n\nאלה זיהויים אנושיים שאומתו בשני בודקים. צילום המיקום של מאיה אחרי 20:16 אינו זמין; אין מצלמה בביתה.",
+        "en": "Amir Sade — bus 42:\n20:19:12 ticket validated by the clinic. Face footage confirms Amir.\n20:31:05 and 20:44:20 seen in continuous on-board footage en route to Hill District, 7–10 km from the Records House. Alighted 20:51. No archive-area stop after 20:19.\n\nDana Lev — theatre:\nContinuous foyer coverage 20:24–21:02. On phone by auditorium door 20:29–20:38. Remains visible after the call. Minimum drive to archive: 11 minutes.\n\nNiv Harari — café:\nContinuous till/table coverage 20:22–20:52 with lawyer. No absence from frame over 12 seconds. Minimum walk to archive: 6 minutes.\n\nHuman identifications independently checked by two reviewers. No location footage for Maya after 20:16 is available; her home has no camera."
+      },
+      "folder": "verification"
+    },
+    {
+      "id": "R05",
+      "app": "records",
+      "title": {
+        "he": "רישום שיחות — מכשיר A01",
+        "en": "Call log — device A01"
+      },
+      "subtitle": {
+        "he": "14.09 / שעון רשת מאומת",
+        "en": "14.09 / Verified network time"
+      },
+      "body": {
+        "he": "17:02:11 | נכנסת | ניב | 01:42\n18:31:09 | יוצאת | מזכירות ועדה | 03:10\n20:29:14 | נכנסת | דנה | 08:52\n20:39:10 | נכנסת | דנה | ללא מענה\n20:41:22 | נכנסת | דנה | ללא מענה\n\nהשיחה עם דנה הסתיימה ב־20:38:06. אין הקלטה של התוכן. ספק התקשורת אימת את זמני התחלה וסיום בלבד. עדותה על רעש אינה הקלטה.\n\nלא נמצאה הפעלת משתמש במכשיר אחרי 20:37. אין להסיק מכך זמן מוות מדויק. ההודעות ב־C03 נמסרו למכשיר אוטומטית.",
+        "en": "17:02:11 | Incoming | Niv | 01:42\n18:31:09 | Outgoing | Committee secretary | 03:10\n20:29:14 | Incoming | Dana | 08:52\n20:39:10 | Incoming | Dana | Unanswered\n20:41:22 | Incoming | Dana | Unanswered\n\nDana’s call ended at 20:38:06. No audio recording exists. Carrier verifies start and end times only. Her account of a noise is testimony, not a recording.\n\nNo user interaction found after 20:37. This does not establish a precise death time. Messages in C03 arrived automatically."
+      },
+      "folder": "calls"
+    },
+    {
+      "id": "R06",
+      "app": "records",
+      "title": {
+        "he": "מפתח שמות והרשאות",
+        "en": "People and access directory"
+      },
+      "subtitle": {
+        "he": "רשומת מנהלה / נתונים מאומתים",
+        "en": "Administrative record / Verified data"
+      },
+      "body": {
+        "he": "אייל שלו | בן 46 | יועץ ביקורת | חדר עבודה זמני 204.\nמאיה רונן | בת 42 | מנהלת תפעול | M08, הרשאת ספקים ורכב; בעלת אורן שירותי אתר.\nאמיר שדה | בן 35 | טכנאי | A17, הרשאת שירות; ללא מפתח חצר.\nדנה לב | בת 44 | רשמת | D03, כניסה ציבורית; בת זוג לשעבר של אייל.\nניב הררי | בן 51 | סגן מנהל | N09, כניסה ציבורית בלבד.\nיוסי טל | בן 61 | שומר | GUARD, גישת שירות.\n\nהמשמרת נבדקה: יוסי נראה ברצף במצלמת דלפק 20:25–20:50, למעט מעבר של 15 שניות למתג האור הסמוך. זמן הליכה ל־204 ארוך מכך. לא נמצאו עובדים נוספים בבניין. אין להמציא חשוד שאינו נתמך בחומר.",
+        "en": "Eyal Shalev | 46 | Audit consultant | Temporary room 204.\nMaya Ronen | 42 | Facilities manager | M08, supplier and vehicle access; owner of Oran Site Services.\nAmir Sade | 35 | Technician | A17, service access; no yard key.\nDana Lev | 44 | Registrar | D03, public entrance; Eyal’s former spouse.\nNiv Harari | 51 | Deputy director | N09, public entrance only.\nYossi Tal | 61 | Guard | GUARD, service access.\n\nGuard shift checked: Yossi continuously visible on desk camera 20:25–20:50, except 15 seconds at adjacent light switch. Room 204 requires longer travel. No additional employees were in the building. Do not invent an unsupported suspect."
+      },
+      "folder": "people"
+    }
+  ],
+  "people": [
+    {
+      "id": "maya",
+      "name": {
+        "he": "מאיה רונן",
+        "en": "Maya Ronen"
+      }
+    },
+    {
+      "id": "amir",
+      "name": {
+        "he": "אמיר שדה",
+        "en": "Amir Sade"
+      }
+    },
+    {
+      "id": "dana",
+      "name": {
+        "he": "דנה לב",
+        "en": "Dana Lev"
+      }
+    },
+    {
+      "id": "niv",
+      "name": {
+        "he": "ניב הררי",
+        "en": "Niv Harari"
+      }
+    }
+  ],
+  "sequenceOptions": [
+    [
+      "s4",
+      {
+        "he": "הרעש שתואר בשיחה • בערך 20:37 • P08",
+        "en": "Noise described during the call • about 20:37 • P08"
+      }
+    ],
+    [
+      "s5",
+      {
+        "he": "יציאת A17 • זמן בקר 20:49:00 • R01",
+        "en": "A17 exit • raw controller time 20:49:00 • R01"
+      }
+    ],
+    [
+      "s1",
+      {
+        "he": "יציאת רכב פרטי • 20:16 • R03",
+        "en": "Private-car departure • 20:16 • R03"
+      }
+    ],
+    [
+      "s6",
+      {
+        "he": "יציאת U-12 מהחצר • 20:48 • R03",
+        "en": "U-12 leaves yard • 20:48 • R03"
+      }
+    ],
+    [
+      "s3",
+      {
+        "he": "כניסת A17 • זמן בקר 20:41:50 • R01",
+        "en": "A17 entry • raw controller time 20:41:50 • R01"
+      }
+    ],
+    [
+      "s2",
+      {
+        "he": "כניסת U-12 לחצר • 20:27 • R03",
+        "en": "U-12 enters yard • 20:27 • R03"
+      }
+    ]
+  ],
+  "reportOptions": {
+    "event": [
+      [
+        "assault",
+        {
+          "he": "פגיעה קטלנית בחפץ קהה",
+          "en": "Fatal blunt-force assault"
+        }
+      ],
+      [
+        "accident",
+        {
+          "he": "נפילה מקרית",
+          "en": "Accidental fall"
+        }
+      ],
+      [
+        "poison",
+        {
+          "he": "הרעלה",
+          "en": "Poisoning"
+        }
+      ]
+    ],
+    "motive": [
+      [
+        "supplier",
+        {
+          "he": "מניעת חשיפת טובת הנאה מספק",
+          "en": "Prevent exposure of supplier self-dealing"
+        }
+      ],
+      [
+        "debt",
+        {
+          "he": "חוב אישי",
+          "en": "Personal debt"
+        }
+      ],
+      [
+        "separation",
+        {
+          "he": "מחלוקת על רכוש משותף",
+          "en": "Dispute over shared property"
+        }
+      ],
+      [
+        "permits",
+        {
+          "he": "הסתרת כשל ברישיונות",
+          "en": "Conceal permit failures"
+        }
+      ]
+    ],
+    "window": [
+      [
+        "w1",
+        {
+          "he": "20:15–20:25",
+          "en": "20:15–20:25"
+        }
+      ],
+      [
+        "w2",
+        {
+          "he": "20:34–20:42 בקירוב",
+          "en": "Approximately 20:34–20:42"
+        }
+      ],
+      [
+        "w3",
+        {
+          "he": "20:42–20:50",
+          "en": "20:42–20:50"
+        }
+      ],
+      [
+        "w4",
+        {
+          "he": "אחרי 21:00",
+          "en": "After 21:00"
+        }
+      ]
+    ],
+    "route": [
+      [
+        "service",
+        {
+          "he": "חצר ושירות, בכרטיס שאינו של הנושא",
+          "en": "Yard and service route, with another person’s badge"
+        }
+      ],
+      [
+        "front",
+        {
+          "he": "הכניסה הציבורית בלבד",
+          "en": "Public entrance only"
+        }
+      ],
+      [
+        "window",
+        {
+          "he": "חלון הקומה השנייה",
+          "en": "Second-floor window"
+        }
+      ]
+    ]
+  }
+}

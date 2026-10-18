@@ -1,0 +1,85 @@
+{
+  "name": "case-files",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An offline bilingual detective investigation",
+  "main": "desktop/main.cjs",
+  "scripts": {
+    "dev": "node scripts/dev.cjs",
+    "build": "tsc --noEmit && vite build",
+    "pdf": "node scripts/pdf.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "test:ui": "node tests/ui.cjs",
+    "start": "electron .",
+    "package:linux": "npm run build && electron-builder --linux dir",
+    "package:win": "npm run build && electron-builder --win portable --x64",
+    "check": "npm run build && npm test",
+    "package:installer": "npm run build && electron-builder --win nsis --x64",
+    "test:native": "node tests/native.cjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "electron": "^44.9.0",
+    "electron-builder": "^26.0.12",
+    "playwright-core": "^1.51.0",
+    "typescript": "~5.7.3",
+    "vite": "^6.1.0"
+  },
+  "build": {
+    "appId": "studio.casefiles.investigation",
+    "productName": "CASE FILES",
+    "asar": true,
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "desktop/**/*",
+      "private/runtime.dat",
+      "package.json",
+      "build/icon.png"
+    ],
+    "extraResources": [
+      {
+        "from": "public/dossiers",
+        "to": "dossiers"
+      }
+    ],
+    "win": {
+      "target": "portable",
+      "artifactName": "Case-Files-Setup-${version}.${ext}",
+      "signAndEditExecutable": false,
+      "icon": "build/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "installerIcon": "build/icon.ico",
+      "uninstallerIcon": "build/icon.ico"
+    },
+    "linux": {
+      "target": "dir",
+      "category": "Game",
+      "icon": "build/icon.png"
+    },
+    "portable": {
+      "artifactName": "Case-Files-${version}-Windows.${ext}",
+      "requestExecutionLevel": "user"
+    }
+  },
+  "author": {
+    "name": "CASE FILES Studio"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
