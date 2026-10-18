@@ -1,0 +1,14 @@
+CASE FILES
+
+Windows 11 x64:
+1. Double-click Case-Files-1.0.0-Windows.exe.
+2. Select Hebrew or English.
+3. Open Print investigation file from the title menu. Print A4 at 100%, or use the in-game Files app.
+4. Start New investigation.
+
+No account, internet, Node.js, or manually launched server is required to play.
+Progress saves under your Windows user account. Reset requires confirmation.
+The full solution appears only when you explicitly close and reveal the case.
+
+This is a fictional game. Target duration: 60-90 minutes. Difficulty: medium.
+The portable application is unsigned and was cross-built on Linux; actual Windows execution was not verified here. See QA.md for tested capabilities and limitations.

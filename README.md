@@ -4,6 +4,10 @@
 
 ## לשחק ב־Windows 11
 
+**[הורדת המשחק ל־Windows — קובץ EXE מוכן](https://media.githubusercontent.com/media/yoni360/murder-mystery/main/downloads/Case-Files-1.0.0-Windows.exe)**
+
+תיק להדפסה: [עברית](public/dossiers/he.pdf) · [English](public/dossiers/en.pdf). [גרסאות חסכוניות בדיו](public/dossiers) ו[דוח בדיקות](QA.md) זמינים גם במאגר.
+
 1. פתחו את `release/Case-Files-1.0.0-Windows.exe` במחשב Windows בעל מעבד x64. זהו יישום נייד; אין צורך ב־Node.js, בשרת או בחשבון.
 2. בחרו שפה. בתפריט הראשי פתחו **תיק החקירה להדפסה** ובחרו PDF בעברית או באנגלית. אפשר לבחור גרסה חסכונית בדיו. מומלץ להדפיס בגודל A4, בקנה מידה 100%.
 3. התחילו חקירה חדשה. אפשר לקרוא את כל דפי התיק גם בסייר הקבצים במחשב המשחק.
@@ -14,6 +18,8 @@
 קובץ Windows נבנה בסביבת Linux ואינו חתום בחתימה דיגיטלית. הרצה על Windows אמיתי לא אומתה כאן. סטטוס הבדיקות מפורט ב־[QA.md](QA.md).
 
 ## Play in English
+
+**[Download the Windows game](https://media.githubusercontent.com/media/yoni360/murder-mystery/main/downloads/Case-Files-1.0.0-Windows.exe)** · [Download folder and checksum](downloads)
 
 Open `release/Case-Files-1.0.0-Windows.exe` on Windows 11 x64. Select English, open **Print investigation file**, then begin a new investigation. All four PDF editions are also in `public/dossiers`. No account, terminal, server or internet is required during play. Progress is stored in the operating system's per-user application-data folder; keep playing under the same Windows user account.
 
